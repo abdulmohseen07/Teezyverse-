@@ -16,7 +16,7 @@ Drip Designer is a full-stack web application that allows users to generate uniq
 * Frontend: React.js, TailwindCSS, Framer Motion, Three.js
 * Backend: Node.js, Express.js
 * AI Integration: OpenAI DALL·E 3 API
-* Hosting: (your platform, e.g. Vercel, Render, or Local)
+* Hosting: Vercel
 
 ### 🚀 How to Use
 
